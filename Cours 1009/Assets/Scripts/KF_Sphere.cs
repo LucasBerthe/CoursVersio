@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Notascript : MonoBehaviour
+public class KF_Sphere : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
